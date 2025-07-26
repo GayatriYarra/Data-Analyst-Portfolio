@@ -89,7 +89,8 @@ This repository showcases the professional projects I've completed using *Excel,
 
 - Email: gayathri.yarra1774@gmail.com  
 - LinkedIn: [Add your LinkedIn URL here]  
-- GitHub: [https://github.com/GayatriYarra](https://github.com/GayatriYarra)
+- GitHub: https://github.com/GayatriYarra/Data-Analyst-Portfolio
+- 
 
 ---
 
