@@ -37,7 +37,7 @@ This portfolio showcases my end-to-end data analytics projects — from raw data
 ### 4. Customer Behavior & Insights Dashboard  
 *Tools:* SQL, Excel, Power BI  
 *Skills:* Data Cleaning, Modeling, Interactive Visualizations  
-📎 [Download Power BI File]()
+📎 [Download Power BI File](https://github.com/GayatriYarra/Data-Analyst-Portfolio/blob/main/project4.pbix)
 
 > End-to-end project analyzing customer purchase behavior and generating actionable insights.
 
