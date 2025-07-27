@@ -1,35 +1,52 @@
 # 📊 Data Analyst Portfolio – Gayathri Yarra
 
 Hi! I'm Gayathri Yarra, an aspiring Data Analyst with hands-on experience in tools like *Power BI, **Excel, and **SQL*.  
-This portfolio showcases my end-to-end data analytics projects — from raw data cleaning to dashboards and insights.
+This portfolio showcases my end-to-end data analytics projects — from raw data cleaning to insights and dashboards.
 
 ---
 
 ## 📁 Projects Included
 
-### 1. Social Media Campaign Analysis  
+### 1. Social Media Campaign Performance Dashboard  
 *Tools:* Excel, Power BI  
-*Skills:* KPIs, Charts, Slicers, Campaign comparison
+*Skills:* KPIs, Charts, Slicers, Campaign Comparison  
+📎 [Download Power BI File](#)
+
+> Analyzed a campaign's performance across channels using KPIs and slicers for real-time insights.
+
+---
 
 ### 2. Finance Analytics – Budget vs Actuals  
 *Tools:* SQL, Excel, Power BI  
-*Skills:* Financial KPIs, Forecasting, Visual Budgeting
+*Skills:* Financial KPIs, Forecasting, Visual Budgeting  
+📎 [Download Excel File](#)
 
-### 3. Sales Analysis Dashboard  
+> Built a financial dashboard comparing actual spend vs budget across categories using forecasting visuals.
+
+---
+
+### 3. Social Media Engagement Analysis (YouTube vs Instagram)  
 *Tools:* Excel (PivotTables, Charts)  
-*Skills:* Region-wise Sales, Top Products, Filtering
+*Skills:* Platform Comparison, Region-wise Engagement, Filtering  
+📎 [Download Excel File](#)
 
-### 4. Real-time Analytics Project (In Progress)  
-*Tools:* Power BI, Excel, SQL  
-*Skills:* Complete data pipeline with visuals
-
----
-
-I'm passionate about solving real business problems using data.  
-Always learning, building, and improving as I grow in my data analytics journey. 🚀
+> Compared user engagement trends across platforms, regions, and top-performing content types.
 
 ---
 
-📬 *Connect with me on LinkedIn:* https://www.linkedin.com/in/gayatri-yarra-856b1629a/
+### 4. Customer Behavior & Insights Dashboard  
+*Tools:* SQL, Excel, Power BI  
+*Skills:* Data Cleaning, Modeling, Interactive Visualizations  
+📎 [Download Power BI File](#)
 
-📂 *Download my dashboards:* See the *Files* section in this repo!
+> End-to-end project analyzing customer purchase behavior and generating actionable insights.
+
+---
+
+## 📬 Contact
+
+🔗 [LinkedIn – Gayathri Yarra](https://www.linkedin.com/in/gayatri-yarra-856b1629a/)
+
+📄 [Download My Resume](#)
+
+---
