@@ -1,6 +1,6 @@
 # 📊 Data Analyst Portfolio – Gayathri Yarra
 
-Hi! I'm Gayathri Yarra, an aspiring Data Analyst with hands-on experience in tools like *Power BI, **Excel, and **SQL*.  
+Hi! I'm Gayathri Yarra, an aspiring Data Analyst with hands-on experience in tools like *Power BI, Excel, and SQL.  
 This portfolio showcases my end-to-end data analytics projects — from raw data cleaning to insights and dashboards.
 
 ---
