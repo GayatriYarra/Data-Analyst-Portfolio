@@ -19,7 +19,7 @@ This portfolio showcases my end-to-end data analytics projects — from raw data
 ### 2. Finance Analytics – Budget vs Actuals  
 *Tools:* SQL, Excel, Power BI  
 *Skills:* Financial KPIs, Forecasting, Visual Budgeting  
-📎 [Download Excel File]()
+📎 [Download Excel File](https://github.com/GayatriYarra/Data-Analyst-Portfolio/blob/main/Project2.pbix)
 
 > Built a financial dashboard comparing actual spend vs budget across categories using forecasting visuals.
 
