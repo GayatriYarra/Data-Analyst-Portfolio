@@ -10,7 +10,7 @@ This portfolio showcases my end-to-end data analytics projects — from raw data
 ### 1. Social Media Campaign Performance Dashboard  
 *Tools:* Excel, Power BI  
 *Skills:* KPIs, Charts, Slicers, Campaign Comparison  
-📎 [Download Power BI File](#)
+📎 [Download Power BI File]()
 
 > Analyzed a campaign's performance across channels using KPIs and slicers for real-time insights.
 
@@ -19,7 +19,7 @@ This portfolio showcases my end-to-end data analytics projects — from raw data
 ### 2. Finance Analytics – Budget vs Actuals  
 *Tools:* SQL, Excel, Power BI  
 *Skills:* Financial KPIs, Forecasting, Visual Budgeting  
-📎 [Download Excel File](#)
+📎 [Download Excel File]()
 
 > Built a financial dashboard comparing actual spend vs budget across categories using forecasting visuals.
 
@@ -28,7 +28,7 @@ This portfolio showcases my end-to-end data analytics projects — from raw data
 ### 3. Social Media Engagement Analysis (YouTube vs Instagram)  
 *Tools:* Excel (PivotTables, Charts)  
 *Skills:* Platform Comparison, Region-wise Engagement, Filtering  
-📎 [Download Excel File](#)
+📎 [Download Excel File](https://github.com/GayatriYarra/Data-Analyst-Portfolio/blob/main/project3.pbix)
 
 > Compared user engagement trends across platforms, regions, and top-performing content types.
 
@@ -37,7 +37,7 @@ This portfolio showcases my end-to-end data analytics projects — from raw data
 ### 4. Customer Behavior & Insights Dashboard  
 *Tools:* SQL, Excel, Power BI  
 *Skills:* Data Cleaning, Modeling, Interactive Visualizations  
-📎 [Download Power BI File](#)
+📎 [Download Power BI File]()
 
 > End-to-end project analyzing customer purchase behavior and generating actionable insights.
 
