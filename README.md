@@ -10,7 +10,7 @@ This portfolio showcases my end-to-end data analytics projects — from raw data
 ### 1. Social Media Campaign Performance Dashboard  
 *Tools:* Excel, Power BI  
 *Skills:* KPIs, Charts, Slicers, Campaign Comparison  
-📎 [Download Power BI File]()
+📎 [Download Power BI File](https://github.com/GayatriYarra/Data-Analyst-Portfolio/blob/main/project1.pbix)
 
 > Analyzed a campaign's performance across channels using KPIs and slicers for real-time insights.
 
