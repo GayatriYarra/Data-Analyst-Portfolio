@@ -47,6 +47,6 @@ This portfolio showcases my end-to-end data analytics projects — from raw data
 
 🔗 [LinkedIn – Gayathri Yarra](https://www.linkedin.com/in/gayatri-yarra-856b1629a/)
 
-📄 [Download My Resume](#)
+📄 [Download My Resume](https://github.com/GayatriYarra/Data-Analyst-Portfolio/blob/main/Gayathri-Yarra.pdf)
 
 ---
